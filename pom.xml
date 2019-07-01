@@ -72,7 +72,7 @@
     </issueManagement>
 
     <properties>
-        <version.server>17.0.0.Final</version.server>
+        <version.server>17.0.1.Final-SNAPSHOT</version.server>
         <version.bom-builder-plugin>2.0.0.Beta1</version.bom-builder-plugin>
     </properties>
 
