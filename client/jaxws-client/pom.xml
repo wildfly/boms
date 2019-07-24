@@ -106,14 +106,6 @@
                                     <groupId>org.jboss.spec.javax.annotation</groupId>
                                     <artifactId>jboss-annotations-api_1.3_spec</artifactId>
                                 </dependency>
-                                <dependency>
-                                    <groupId>org.jboss.slf4j</groupId>
-                                    <artifactId>slf4j-jboss-logmanager</artifactId>
-                                </dependency>
-                                <dependency>
-                                    <groupId>org.jboss.logmanager</groupId>
-                                    <artifactId>jboss-logmanager</artifactId>
-                                </dependency>
                             </includeDependencies>
                         </configuration>
                     </execution>
